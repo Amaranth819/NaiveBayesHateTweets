@@ -18,7 +18,7 @@
 
 ### How to run the code
 
-​	Just run `python NBClassifier.py` if using the pretrained model file. Otherwise, run `python retrieve_tweets.py` to create your own dataset first.
+​	Just run `python NBClassifier.py` if using the pretrained model. Otherwise, run `python retrieve_tweets.py` to create your own dataset first.
 
 
 
