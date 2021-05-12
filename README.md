@@ -25,5 +25,3 @@
 ### Performance
 
 ​	The model is trained on the COVID-HATE data (Jul 8 - Aug 7) and the testing accuracy is 42.29%. When removing the stopwords during training, the testing accuracy is 42.78%.
-
-​	Assume a sentence consists of 
